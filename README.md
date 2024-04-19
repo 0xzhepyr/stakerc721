@@ -1,0 +1,1 @@
+Stake NFT (ERC721)
